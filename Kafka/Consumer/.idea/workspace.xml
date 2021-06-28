@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4aef7527-3b35-47a3-8f2f-09ddc41dd19b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1rNT6pAms8eGHMkz6rjnxMW2o64" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pon.demo.connectKafka.model" />
+      <recent name="pon.demo.connectKafka" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/pon/demo/connectKafka/service" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pon.demo.connectKafka.Main" />
+      <module name="Kafka-consumer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="pon.demo.connectKafka.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Kafka-Producer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Kafka-Producer" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4aef7527-3b35-47a3-8f2f-09ddc41dd19b" name="Default Changelist" comment="" />
+      <created>1618815374983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618815374983</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="632" y="168" width="646" height="778" key="#Main" timestamp="1618817363975">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="632" y="168" width="646" height="778" key="#Main/0.27.1920.1053@0.27.1920.1053" timestamp="1618817363975" />
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618817342658">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1618817342658" />
+    <state x="743" y="261" width="424" height="591" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1618815760875">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="261" width="424" height="591" key="#com.intellij.ide.macro.MacrosDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1618815760875" />
+    <state x="768" y="261" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1623727802531">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="768" y="261" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1623727802530" />
+    <state x="692" y="345" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1618817340911">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="692" y="345" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1618817340911" />
+    <state x="100" y="127" width="1720" height="853" key="DiffContextDialog" timestamp="1623725473641">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1720" height="853" key="DiffContextDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1623725473641" />
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1623728115348">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1623728115348" />
+    <state width="1874" height="617" key="GridCell.Tab.0.bottom" timestamp="1623731520200">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="617" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1623731520200" />
+    <state width="1874" height="617" key="GridCell.Tab.0.center" timestamp="1623731520199">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="617" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1623731520199" />
+    <state width="1874" height="617" key="GridCell.Tab.0.left" timestamp="1623731520199">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="617" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1623731520199" />
+    <state width="1874" height="617" key="GridCell.Tab.0.right" timestamp="1623731520200">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="617" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1623731520200" />
+    <state width="1874" height="340" key="GridCell.Tab.1.bottom" timestamp="1623666403957">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1623666403957" />
+    <state width="1874" height="340" key="GridCell.Tab.1.center" timestamp="1623666403954">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1623666403954" />
+    <state width="1874" height="340" key="GridCell.Tab.1.left" timestamp="1623666403954">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1623666403954" />
+    <state width="1874" height="340" key="GridCell.Tab.1.right" timestamp="1623666403957">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="340" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1623666403957" />
+    <state x="493" y="211" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1623725867735">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="493" y="211" width="924" height="691" key="Maven.ArtifactSearchDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1623725867735" />
+    <state x="0" y="257" width="1239" height="599" key="new project wizard" timestamp="1619059164255">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="0" y="257" width="1239" height="599" key="new project wizard/0.27.1920.1053@0.27.1920.1053" timestamp="1619059164255" />
+  </component>
+</project>
